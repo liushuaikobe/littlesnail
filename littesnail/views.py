@@ -5,12 +5,12 @@ from django.views.decorators.csrf import csrf_exempt
 from django.utils.encoding import smart_str, smart_unicode
 
 import xml.etree.ElementTree as ET
-import urllib,urllib2,time
+import urllib,urllib2,time,hashlib
 
-TOKEN = "lovezlp"
+TOKEN = "your token"
 
-YOUDAO_KEY = 909053810
-YOUDAO_KEY_FROM = "little-snail"
+YOUDAO_KEY = your_youdao_key
+YOUDAO_KEY_FROM = "your_youdao_key_from"
 YOUDAO_DOC_TYPE = "xml"
 
 @csrf_exempt
