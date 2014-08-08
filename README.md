@@ -26,6 +26,6 @@ A YouDao Translation WeChat Robot Demo with Django.
 
 
 ### 向我捐助
-欢迎随手捐助我。 
+欢迎用支付宝钱包扫码随手捐助我。 
 
 ![捐赠liushuaikobe](./img/alipay.png)
