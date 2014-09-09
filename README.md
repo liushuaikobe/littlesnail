@@ -12,7 +12,7 @@ A YouDao Translation WeChat Robot Demo with Django.
 
 此外，那时我的代码很稚嫩，后来不愿意花精力去维护，还望多多包涵。
 
-更多信息请移步[这里](http://blog.vars.me/blog/2013/07/24/wei-xin-ji-qi-ren-xiao-gua-niu-you-dao-fan-yi-xiao-zhu-shou-django-plus-sae-plus-wei-xin-gong-zhong-zhang-hao-zi-dong-hui-fu-kai-fang-jie-kou/).
+更多信息请移步[这里](http://blog.vars.me/2013/07/24/wei-xin-ji-qi-ren-xiao-gua-niu-you-dao-fan-yi-xiao-zhu-shou-django-plus-sae-plus-wei-xin-gong-zhong-zhang-hao-zi-dong-hui-fu-kai-fang-jie-kou/).
 
 此外账号欢迎调戏，我也会不定期通过该账号发一些杂文。
 
