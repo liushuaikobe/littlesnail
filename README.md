@@ -24,8 +24,4 @@ A YouDao Translation WeChat Robot Demo with Django.
 ### Screenshots
 ![Demo](./img/demo.png)
 
-
-### 向我捐助
-欢迎用支付宝钱包扫码随手捐助我。 
-
-![捐赠liushuaikobe](./img/alipay.png)
+![捐赠liushuaikobe](http://7xjdjy.com1.z0.glb.clouddn.com/donate.png)
